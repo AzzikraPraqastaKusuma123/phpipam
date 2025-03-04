@@ -13,7 +13,7 @@ class Vrfs_controller extends Common_api_functions {
 	 *
 	 * @access public
 	 * @param PDO_Database $Database
-	 * @param Tools $Tools
+	 * @param Tools $Tools	
 	 * @param API_params $params
 	 * @param Response $response
 	 */
